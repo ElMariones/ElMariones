@@ -2,8 +2,8 @@
 
 <table align="center">
 <tr>
-<td><a href="https://www.linkedin.com/in/mario-landaburu/"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn"></a></td>
-<td>
+<td width="140" align="center"><a href="https://www.linkedin.com/in/mario-landaburu/"><img src="assets/btn-linkedin.svg" width="132" height="48" alt="LinkedIn"></a></td>
+<td width="330">
 
 ```text
 mariolandaburuclares@gmail.com
