@@ -1,10 +1,10 @@
 <img src="assets/banner.gif" alt="Mario Landáburu Clares: Software developer">
 
-<p align="center"><a href="https://www.linkedin.com/in/mario-landaburu/">LinkedIn</a></p>
-
-```text
-mariolandaburuclares@gmail.com
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/mario-landaburu/"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:mariolandaburuclares@gmail.com"><img src="assets/btn-email.svg" height="46" alt="Email: mariolandaburuclares@gmail.com"></a>
+</p>
 
 ## Selected work
 
